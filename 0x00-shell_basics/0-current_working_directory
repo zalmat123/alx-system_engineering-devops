@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(cd "$(dirname "0-current_working_directory")"  pwd -P)/$(basename "dirname"=$(pwd -P)")"
+chmod u+x <0-current_working_directory>
