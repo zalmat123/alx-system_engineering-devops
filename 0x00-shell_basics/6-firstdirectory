@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /tmp/holberton/
+mkdir -p /tmp/my_first_dircotry
